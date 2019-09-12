@@ -1,0 +1,15 @@
+All genres;Action-adventure
+Action-adventure;Action
+Action-adventure;Platform
+Action-adventure;Shooter
+Action-adventure;Fighting
+Action-adventure;Adventure
+All genres;Sports-Racing
+Sports-Racing;Sports
+Sports-Racing;Racing
+All genres;Other
+Other;Role-Playing
+Other;Simulation
+Other;Strategy
+Other;Puzzle
+Other;Misc

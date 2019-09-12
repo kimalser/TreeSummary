@@ -1,0 +1,106 @@
+All Population;Male
+Male;Male,18 to 34 group
+Male,18 to 34 group;Male,18 to 24 years
+Male,18 to 24 years;Male,18 to 24 years,Pre-college
+Male,18 to 24 years;Male,18 to 24 years,College
+Male,18 to 24 years,Pre-college;Male,18 to 24 years,Less than 9th grade
+Male,18 to 24 years,Pre-college;Male,18 to 24 years,9th to 12th grade no diploma
+Male,18 to 24 years,Pre-college;Male,18 to 24 years,High school graduate
+Male,18 to 24 years,College;Male,18 to 24 years,Some college no degree
+Male,18 to 24 years,College;Male,18 to 24 years,Associate's degree
+Male,18 to 24 years,College;Male,18 to 24 years,Bachelor's degree
+Male,18 to 24 years,College;Male,18 to 24 years,Graduate or professional degree
+Male,18 to 34 group;Male,25 to 34 years
+Male,25 to 34 years;Male,25 to 34 years,Pre-college
+Male,25 to 34 years;Male,25 to 34 years,College
+Male,25 to 34 years,Pre-college;Male,25 to 34 years,Less than 9th grade
+Male,25 to 34 years,Pre-college;Male,25 to 34 years,9th to 12th grade no diploma
+Male,25 to 34 years,Pre-college;Male,25 to 34 years,High school graduate
+Male,25 to 34 years,College;Male,25 to 34 years,Some college no degree
+Male,25 to 34 years,College;Male,25 to 34 years,Associate's degree
+Male,25 to 34 years,College;Male,25 to 34 years,Bachelor's degree
+Male,25 to 34 years,College;Male,25 to 34 years,Graduate or professional degree
+Male;Male,35 to 64 group
+Male,35 to 64 group;Male,35 to 44 years
+Male,35 to 44 years;Male,35 to 44 years,Pre-college
+Male,35 to 44 years;Male,35 to 44 years,College
+Male,35 to 44 years,Pre-college;Male,35 to 44 years,Less than 9th grade
+Male,35 to 44 years,Pre-college;Male,35 to 44 years,9th to 12th grade no diploma
+Male,35 to 44 years,Pre-college;Male,35 to 44 years,High school graduate
+Male,35 to 44 years,College;Male,35 to 44 years,Some college no degree
+Male,35 to 44 years,College;Male,35 to 44 years,Associate's degree
+Male,35 to 44 years,College;Male,35 to 44 years,Bachelor's degree
+Male,35 to 44 years,College;Male,35 to 44 years,Graduate or professional degree
+Male,35 to 64 group;Male,45 to 64 years
+Male,45 to 64 years;Male,45 to 64 years,Pre-college
+Male,45 to 64 years;Male,45 to 64 years,College
+Male,45 to 64 years,Pre-college;Male,45 to 64 years,Less than 9th grade
+Male,45 to 64 years,Pre-college;Male,45 to 64 years,9th to 12th grade no diploma
+Male,45 to 64 years,Pre-college;Male,45 to 64 years,High school graduate
+Male,45 to 64 years,College;Male,45 to 64 years,Some college no degree
+Male,45 to 64 years,College;Male,45 to 64 years,Associate's degree
+Male,45 to 64 years,College;Male,45 to 64 years,Bachelor's degree
+Male,45 to 64 years,College;Male,45 to 64 years,Graduate or professional degree
+Male;Male,65 years and over
+Male,65 years and over;Male,65 years and over,Pre-college
+Male,65 years and over;Male,65 years and over,College
+Male,65 years and over,Pre-college;Male,65 years and over,Less than 9th grade
+Male,65 years and over,Pre-college;Male,65 years and over,9th to 12th grade no diploma
+Male,65 years and over,Pre-college;Male,65 years and over,High school graduate
+Male,65 years and over,College;Male,65 years and over,Some college no degree
+Male,65 years and over,College;Male,65 years and over,Associate's degree
+Male,65 years and over,College;Male,65 years and over,Bachelor's degree
+Male,65 years and over,College;Male,65 years and over,Graduate or professional degree
+All Population;Female
+Female;Female,18 to 34 group
+Female,18 to 34 group;Female,18 to 24 years
+Female,18 to 24 years;Female,18 to 24 years,Pre-college
+Female,18 to 24 years;Female,18 to 24 years,College
+Female,18 to 24 years,Pre-college;Female,18 to 24 years,Less than 9th grade
+Female,18 to 24 years,Pre-college;Female,18 to 24 years,9th to 12th grade no diploma
+Female,18 to 24 years,Pre-college;Female,18 to 24 years,High school graduate
+Female,18 to 24 years,College;Female,18 to 24 years,Some college no degree
+Female,18 to 24 years,College;Female,18 to 24 years,Associate's degree
+Female,18 to 24 years,College;Female,18 to 24 years,Bachelor's degree
+Female,18 to 24 years,College;Female,18 to 24 years,Graduate or professional degree
+Female,18 to 34 group;Female,25 to 34 years
+Female,25 to 34 years;Female,25 to 34 years,Pre-college
+Female,25 to 34 years;Female,25 to 34 years,College
+Female,25 to 34 years,Pre-college;Female,25 to 34 years,Less than 9th grade
+Female,25 to 34 years,Pre-college;Female,25 to 34 years,9th to 12th grade no diploma
+Female,25 to 34 years,Pre-college;Female,25 to 34 years,High school graduate
+Female,25 to 34 years,College;Female,25 to 34 years,Some college no degree
+Female,25 to 34 years,College;Female,25 to 34 years,Associate's degree
+Female,25 to 34 years,College;Female,25 to 34 years,Bachelor's degree
+Female,25 to 34 years,College;Female,25 to 34 years,Graduate or professional degree
+Female;Female,35 to 64 group
+Female,35 to 64 group;Female,35 to 44 years
+Female,35 to 44 years;Female,35 to 44 years,Pre-college
+Female,35 to 44 years;Female,35 to 44 years,College
+Female,35 to 44 years,Pre-college;Female,35 to 44 years,Less than 9th grade
+Female,35 to 44 years,Pre-college;Female,35 to 44 years,9th to 12th grade no diploma
+Female,35 to 44 years,Pre-college;Female,35 to 44 years,High school graduate
+Female,35 to 44 years,College;Female,35 to 44 years,Some college no degree
+Female,35 to 44 years,College;Female,35 to 44 years,Associate's degree
+Female,35 to 44 years,College;Female,35 to 44 years,Bachelor's degree
+Female,35 to 44 years,College;Female,35 to 44 years,Graduate or professional degree
+Female,35 to 64 group;Female,45 to 64 years
+Female,45 to 64 years;Female,45 to 64 years,Pre-college
+Female,45 to 64 years;Female,45 to 64 years,College
+Female,45 to 64 years,Pre-college;Female,45 to 64 years,Less than 9th grade
+Female,45 to 64 years,Pre-college;Female,45 to 64 years,9th to 12th grade no diploma
+Female,45 to 64 years,Pre-college;Female,45 to 64 years,High school graduate
+Female,45 to 64 years,College;Female,45 to 64 years,Some college no degree
+Female,45 to 64 years,College;Female,45 to 64 years,Associate's degree
+Female,45 to 64 years,College;Female,45 to 64 years,Bachelor's degree
+Female,45 to 64 years,College;Female,45 to 64 years,Graduate or professional degree
+Female;Female,65 years and over
+Female,65 years and over;Female,65 years and over,Pre-college
+Female,65 years and over;Female,65 years and over,College
+Female,65 years and over,Pre-college;Female,65 years and over,Less than 9th grade
+Female,65 years and over,Pre-college;Female,65 years and over,9th to 12th grade no diploma
+Female,65 years and over,Pre-college;Female,65 years and over,High school graduate
+Female,65 years and over,College;Female,65 years and over,Some college no degree
+Female,65 years and over,College;Female,65 years and over,Associate's degree
+Female,65 years and over,College;Female,65 years and over,Bachelor's degree
+Female,65 years and over,College;Female,65 years and over,Graduate or professional degree

@@ -1,0 +1,836 @@
+United States;Northeast
+United States;Midwest
+United States;South
+United States;West
+Northeast;New England
+Northeast;Mid-Atlantic
+Midwest;East North Central
+Midwest;West North Central
+South;South Atlantic
+South;East South Central
+South;West South Central
+West;Mountain
+West;Pacific
+New England;Connecticut
+New England;Maine
+New England;Massachusetts
+New England;New Hampshire
+New England;Rhode Island
+New England;Vermont
+Mid-Atlantic;New Jersey
+Mid-Atlantic;New York
+Mid-Atlantic;Pennsylvania
+East North Central;Illinois
+East North Central;Indiana
+East North Central;Michigan
+East North Central;Ohio
+East North Central;Wisconsin
+West North Central;Iowa
+West North Central;Kansas
+West North Central;Minnesota
+West North Central;Missouri
+West North Central;Nebraska
+West North Central;North Dakota
+West North Central;South Dakota
+South Atlantic;Delaware
+South Atlantic;Florida
+South Atlantic;Georgia
+South Atlantic;Maryland
+South Atlantic;North Carolina
+South Atlantic;South Carolina
+South Atlantic;Virginia
+South Atlantic;District of Columbia
+South Atlantic;West Virginia
+East South Central;Alabama
+East South Central;Kentucky
+East South Central;Mississippi
+East South Central;Tennessee
+West South Central;Arkansas
+West South Central;Louisiana
+West South Central;Oklahoma
+West South Central;Texas
+Mountain;Arizona
+Mountain;Colorado
+Mountain;Idaho
+Mountain;Montana
+Mountain;Nevada
+Mountain;New Mexico
+Mountain;Utah
+Mountain;Wyoming
+Pacific;Alaska
+Pacific;California
+Pacific;Hawaii
+Pacific;Oregon
+Pacific;Washington
+Alabama;Baldwin County, Alabama
+Alabama;Calhoun County, Alabama
+Alabama;Cullman County, Alabama
+Alabama;DeKalb County, Alabama
+Alabama;Elmore County, Alabama
+Alabama;Etowah County, Alabama
+Alabama;Houston County, Alabama
+Alabama;Jefferson County, Alabama
+Alabama;Lauderdale County, Alabama
+Alabama;Lee County, Alabama
+Alabama;Limestone County, Alabama
+Alabama;Madison County, Alabama
+Alabama;Marshall County, Alabama
+Alabama;Mobile County, Alabama
+Alabama;Montgomery County, Alabama
+Alabama;Morgan County, Alabama
+Alabama;St. Clair County, Alabama
+Alabama;Shelby County, Alabama
+Alabama;Talladega County, Alabama
+Alabama;Tuscaloosa County, Alabama
+Alabama;Walker County, Alabama
+Alaska;Anchorage Municipality, Alaska
+Alaska;Fairbanks North Star Borough, Alaska
+Alaska;Matanuska-Susitna Borough, Alaska
+Arizona;Apache County, Arizona
+Arizona;Cochise County, Arizona
+Arizona;Coconino County, Arizona
+Arizona;Maricopa County, Arizona
+Arizona;Mohave County, Arizona
+Arizona;Navajo County, Arizona
+Arizona;Pima County, Arizona
+Arizona;Pinal County, Arizona
+Arizona;Yavapai County, Arizona
+Arizona;Yuma County, Arizona
+Arkansas;Benton County, Arkansas
+Arkansas;Craighead County, Arkansas
+Arkansas;Faulkner County, Arkansas
+Arkansas;Garland County, Arkansas
+Arkansas;Jefferson County, Arkansas
+Arkansas;Pulaski County, Arkansas
+Arkansas;Saline County, Arkansas
+Arkansas;Sebastian County, Arkansas
+Arkansas;Washington County, Arkansas
+Arkansas;White County, Arkansas
+California;Alameda County, California
+California;Butte County, California
+California;Contra Costa County, California
+California;El Dorado County, California
+California;Fresno County, California
+California;Humboldt County, California
+California;Imperial County, California
+California;Kern County, California
+California;Kings County, California
+California;Lake County, California
+California;Los Angeles County, California
+California;Madera County, California
+California;Marin County, California
+California;Mendocino County, California
+California;Merced County, California
+California;Monterey County, California
+California;Napa County, California
+California;Nevada County, California
+California;Orange County, California
+California;Placer County, California
+California;Riverside County, California
+California;Sacramento County, California
+California;San Bernardino County, California
+California;San Diego County, California
+California;San Francisco County, California
+California;San Joaquin County, California
+California;San Luis Obispo County, California
+California;San Mateo County, California
+California;Santa Barbara County, California
+California;Santa Clara County, California
+California;Santa Cruz County, California
+California;Shasta County, California
+California;Solano County, California
+California;Sonoma County, California
+California;Stanislaus County, California
+California;Sutter County, California
+California;Tulare County, California
+California;Ventura County, California
+California;Yolo County, California
+California;Yuba County, California
+Colorado;Adams County, Colorado
+Colorado;Arapahoe County, Colorado
+Colorado;Boulder County, Colorado
+Colorado;Denver County, Colorado
+Colorado;Douglas County, Colorado
+Colorado;El Paso County, Colorado
+Colorado;Jefferson County, Colorado
+Colorado;Larimer County, Colorado
+Colorado;Mesa County, Colorado
+Colorado;Pueblo County, Colorado
+Colorado;Weld County, Colorado
+Connecticut;Fairfield County, Connecticut
+Connecticut;Hartford County, Connecticut
+Connecticut;Litchfield County, Connecticut
+Connecticut;Middlesex County, Connecticut
+Connecticut;New Haven County, Connecticut
+Connecticut;New London County, Connecticut
+Connecticut;Tolland County, Connecticut
+Connecticut;Windham County, Connecticut
+Delaware;Kent County, Delaware
+Delaware;New Castle County, Delaware
+Delaware;Sussex County, Delaware
+District of Columbia;District of Columbia, District of Columbia
+Florida;Alachua County, Florida
+Florida;Bay County, Florida
+Florida;Brevard County, Florida
+Florida;Broward County, Florida
+Florida;Charlotte County, Florida
+Florida;Citrus County, Florida
+Florida;Clay County, Florida
+Florida;Collier County, Florida
+Florida;Duval County, Florida
+Florida;Escambia County, Florida
+Florida;Flagler County, Florida
+Florida;Hernando County, Florida
+Florida;Highlands County, Florida
+Florida;Hillsborough County, Florida
+Florida;Indian River County, Florida
+Florida;Lake County, Florida
+Florida;Lee County, Florida
+Florida;Leon County, Florida
+Florida;Manatee County, Florida
+Florida;Marion County, Florida
+Florida;Martin County, Florida
+Florida;Miami-Dade County, Florida
+Florida;Monroe County, Florida
+Florida;Okaloosa County, Florida
+Florida;Orange County, Florida
+Florida;Osceola County, Florida
+Florida;Palm Beach County, Florida
+Florida;Pasco County, Florida
+Florida;Pinellas County, Florida
+Florida;Polk County, Florida
+Florida;Putnam County, Florida
+Florida;St. Johns County, Florida
+Florida;St. Lucie County, Florida
+Florida;Santa Rosa County, Florida
+Florida;Sarasota County, Florida
+Florida;Seminole County, Florida
+Florida;Volusia County, Florida
+Georgia;Bartow County, Georgia
+Georgia;Bibb County, Georgia
+Georgia;Carroll County, Georgia
+Georgia;Chatham County, Georgia
+Georgia;Cherokee County, Georgia
+Georgia;Clarke County, Georgia
+Georgia;Clayton County, Georgia
+Georgia;Cobb County, Georgia
+Georgia;Columbia County, Georgia
+Georgia;Coweta County, Georgia
+Georgia;DeKalb County, Georgia
+Georgia;Dougherty County, Georgia
+Georgia;Douglas County, Georgia
+Georgia;Fayette County, Georgia
+Georgia;Floyd County, Georgia
+Georgia;Forsyth County, Georgia
+Georgia;Fulton County, Georgia
+Georgia;Glynn County, Georgia
+Georgia;Gwinnett County, Georgia
+Georgia;Hall County, Georgia
+Georgia;Henry County, Georgia
+Georgia;Houston County, Georgia
+Georgia;Lowndes County, Georgia
+Georgia;Muscogee County, Georgia
+Georgia;Newton County, Georgia
+Georgia;Paulding County, Georgia
+Georgia;Richmond County, Georgia
+Georgia;Rockdale County, Georgia
+Georgia;Walton County, Georgia
+Georgia;Whitfield County, Georgia
+Hawaii;Hawaii County, Hawaii
+Hawaii;Honolulu County, Hawaii
+Hawaii;Maui County, Hawaii
+Idaho;Ada County, Idaho
+Idaho;Bannock County, Idaho
+Idaho;Bonneville County, Idaho
+Idaho;Canyon County, Idaho
+Idaho;Kootenai County, Idaho
+Idaho;Twin Falls County, Idaho
+Illinois;Adams County, Illinois
+Illinois;Champaign County, Illinois
+Illinois;Cook County, Illinois
+Illinois;DeKalb County, Illinois
+Illinois;DuPage County, Illinois
+Illinois;Kane County, Illinois
+Illinois;Kankakee County, Illinois
+Illinois;Kendall County, Illinois
+Illinois;Lake County, Illinois
+Illinois;LaSalle County, Illinois
+Illinois;McHenry County, Illinois
+Illinois;McLean County, Illinois
+Illinois;Macon County, Illinois
+Illinois;Madison County, Illinois
+Illinois;Peoria County, Illinois
+Illinois;Rock Island County, Illinois
+Illinois;St. Clair County, Illinois
+Illinois;Sangamon County, Illinois
+Illinois;Tazewell County, Illinois
+Illinois;Vermilion County, Illinois
+Illinois;Will County, Illinois
+Illinois;Winnebago County, Illinois
+Indiana;Allen County, Indiana
+Indiana;Bartholomew County, Indiana
+Indiana;Clark County, Indiana
+Indiana;Delaware County, Indiana
+Indiana;Elkhart County, Indiana
+Indiana;Floyd County, Indiana
+Indiana;Grant County, Indiana
+Indiana;Hamilton County, Indiana
+Indiana;Hendricks County, Indiana
+Indiana;Howard County, Indiana
+Indiana;Johnson County, Indiana
+Indiana;Kosciusko County, Indiana
+Indiana;Lake County, Indiana
+Indiana;LaPorte County, Indiana
+Indiana;Madison County, Indiana
+Indiana;Marion County, Indiana
+Indiana;Monroe County, Indiana
+Indiana;Morgan County, Indiana
+Indiana;Porter County, Indiana
+Indiana;St. Joseph County, Indiana
+Indiana;Tippecanoe County, Indiana
+Indiana;Vanderburgh County, Indiana
+Indiana;Vigo County, Indiana
+Indiana;Wayne County, Indiana
+Iowa;Black Hawk County, Iowa
+Iowa;Dubuque County, Iowa
+Iowa;Johnson County, Iowa
+Iowa;Linn County, Iowa
+Iowa;Polk County, Iowa
+Iowa;Pottawattamie County, Iowa
+Iowa;Scott County, Iowa
+Iowa;Story County, Iowa
+Iowa;Woodbury County, Iowa
+Kansas;Douglas County, Kansas
+Kansas;Johnson County, Kansas
+Kansas;Leavenworth County, Kansas
+Kansas;Sedgwick County, Kansas
+Kansas;Shawnee County, Kansas
+Kansas;Wyandotte County, Kansas
+Kentucky;Boone County, Kentucky
+Kentucky;Bullitt County, Kentucky
+Kentucky;Campbell County, Kentucky
+Kentucky;Christian County, Kentucky
+Kentucky;Daviess County, Kentucky
+Kentucky;Fayette County, Kentucky
+Kentucky;Hardin County, Kentucky
+Kentucky;Jefferson County, Kentucky
+Kentucky;Kenton County, Kentucky
+Kentucky;Madison County, Kentucky
+Kentucky;Warren County, Kentucky
+Louisiana;Ascension Parish, Louisiana
+Louisiana;Bossier Parish, Louisiana
+Louisiana;Caddo Parish, Louisiana
+Louisiana;Calcasieu Parish, Louisiana
+Louisiana;East Baton Rouge Parish, Louisiana
+Louisiana;Iberia Parish, Louisiana
+Louisiana;Jefferson Parish, Louisiana
+Louisiana;Lafayette Parish, Louisiana
+Louisiana;Lafourche Parish, Louisiana
+Louisiana;Livingston Parish, Louisiana
+Louisiana;Orleans Parish, Louisiana
+Louisiana;Ouachita Parish, Louisiana
+Louisiana;Rapides Parish, Louisiana
+Louisiana;St. Landry Parish, Louisiana
+Louisiana;St. Tammany Parish, Louisiana
+Louisiana;Tangipahoa Parish, Louisiana
+Louisiana;Terrebonne Parish, Louisiana
+Maine;Androscoggin County, Maine
+Maine;Aroostook County, Maine
+Maine;Cumberland County, Maine
+Maine;Kennebec County, Maine
+Maine;Penobscot County, Maine
+Maine;York County, Maine
+Maryland;Allegany County, Maryland
+Maryland;Anne Arundel County, Maryland
+Maryland;Baltimore County, Maryland
+Maryland;Calvert County, Maryland
+Maryland;Carroll County, Maryland
+Maryland;Cecil County, Maryland
+Maryland;Charles County, Maryland
+Maryland;Frederick County, Maryland
+Maryland;Harford County, Maryland
+Maryland;Howard County, Maryland
+Maryland;Montgomery County, Maryland
+Maryland;Prince George's County, Maryland
+Maryland;St. Mary's County, Maryland
+Maryland;Washington County, Maryland
+Maryland;Wicomico County, Maryland
+Maryland;Baltimore city, Maryland
+Massachusetts;Barnstable County, Massachusetts
+Massachusetts;Berkshire County, Massachusetts
+Massachusetts;Bristol County, Massachusetts
+Massachusetts;Essex County, Massachusetts
+Massachusetts;Franklin County, Massachusetts
+Massachusetts;Hampden County, Massachusetts
+Massachusetts;Hampshire County, Massachusetts
+Massachusetts;Middlesex County, Massachusetts
+Massachusetts;Norfolk County, Massachusetts
+Massachusetts;Plymouth County, Massachusetts
+Massachusetts;Suffolk County, Massachusetts
+Massachusetts;Worcester County, Massachusetts
+Michigan;Allegan County, Michigan
+Michigan;Bay County, Michigan
+Michigan;Berrien County, Michigan
+Michigan;Calhoun County, Michigan
+Michigan;Clinton County, Michigan
+Michigan;Eaton County, Michigan
+Michigan;Genesee County, Michigan
+Michigan;Grand Traverse County, Michigan
+Michigan;Ingham County, Michigan
+Michigan;Isabella County, Michigan
+Michigan;Jackson County, Michigan
+Michigan;Kalamazoo County, Michigan
+Michigan;Kent County, Michigan
+Michigan;Lapeer County, Michigan
+Michigan;Lenawee County, Michigan
+Michigan;Livingston County, Michigan
+Michigan;Macomb County, Michigan
+Michigan;Midland County, Michigan
+Michigan;Monroe County, Michigan
+Michigan;Muskegon County, Michigan
+Michigan;Oakland County, Michigan
+Michigan;Ottawa County, Michigan
+Michigan;Saginaw County, Michigan
+Michigan;St. Clair County, Michigan
+Michigan;Shiawassee County, Michigan
+Michigan;Van Buren County, Michigan
+Michigan;Washtenaw County, Michigan
+Michigan;Wayne County, Michigan
+Minnesota;Anoka County, Minnesota
+Minnesota;Carver County, Minnesota
+Minnesota;Dakota County, Minnesota
+Minnesota;Hennepin County, Minnesota
+Minnesota;Olmsted County, Minnesota
+Minnesota;Ramsey County, Minnesota
+Minnesota;St. Louis County, Minnesota
+Minnesota;Scott County, Minnesota
+Minnesota;Sherburne County, Minnesota
+Minnesota;Stearns County, Minnesota
+Minnesota;Washington County, Minnesota
+Minnesota;Wright County, Minnesota
+Mississippi;DeSoto County, Mississippi
+Mississippi;Forrest County, Mississippi
+Mississippi;Harrison County, Mississippi
+Mississippi;Hinds County, Mississippi
+Mississippi;Jackson County, Mississippi
+Mississippi;Jones County, Mississippi
+Mississippi;Lauderdale County, Mississippi
+Mississippi;Lee County, Mississippi
+Mississippi;Madison County, Mississippi
+Mississippi;Rankin County, Mississippi
+Missouri;Boone County, Missouri
+Missouri;Buchanan County, Missouri
+Missouri;Cape Girardeau County, Missouri
+Missouri;Cass County, Missouri
+Missouri;Christian County, Missouri
+Missouri;Clay County, Missouri
+Missouri;Cole County, Missouri
+Missouri;Franklin County, Missouri
+Missouri;Greene County, Missouri
+Missouri;Jackson County, Missouri
+Missouri;Jasper County, Missouri
+Missouri;Jefferson County, Missouri
+Missouri;Platte County, Missouri
+Missouri;St. Charles County, Missouri
+Missouri;St. Louis County, Missouri
+Missouri;St. Louis city, Missouri
+Montana;Cascade County, Montana
+Montana;Flathead County, Montana
+Montana;Gallatin County, Montana
+Montana;Missoula County, Montana
+Montana;Yellowstone County, Montana
+Nebraska;Douglas County, Nebraska
+Nebraska;Lancaster County, Nebraska
+Nebraska;Sarpy County, Nebraska
+Nevada;Clark County, Nevada
+Nevada;Washoe County, Nevada
+New Hampshire;Cheshire County, New Hampshire
+New Hampshire;Grafton County, New Hampshire
+New Hampshire;Hillsborough County, New Hampshire
+New Hampshire;Merrimack County, New Hampshire
+New Hampshire;Rockingham County, New Hampshire
+New Hampshire;Strafford County, New Hampshire
+New Jersey;Atlantic County, New Jersey
+New Jersey;Bergen County, New Jersey
+New Jersey;Burlington County, New Jersey
+New Jersey;Camden County, New Jersey
+New Jersey;Cape May County, New Jersey
+New Jersey;Cumberland County, New Jersey
+New Jersey;Essex County, New Jersey
+New Jersey;Gloucester County, New Jersey
+New Jersey;Hudson County, New Jersey
+New Jersey;Hunterdon County, New Jersey
+New Jersey;Mercer County, New Jersey
+New Jersey;Middlesex County, New Jersey
+New Jersey;Monmouth County, New Jersey
+New Jersey;Morris County, New Jersey
+New Jersey;Ocean County, New Jersey
+New Jersey;Passaic County, New Jersey
+New Jersey;Salem County, New Jersey
+New Jersey;Somerset County, New Jersey
+New Jersey;Sussex County, New Jersey
+New Jersey;Union County, New Jersey
+New Jersey;Warren County, New Jersey
+New Mexico;Bernalillo County, New Mexico
+New Mexico;McKinley County, New Mexico
+New Mexico;Sandoval County, New Mexico
+New Mexico;San Juan County, New Mexico
+New Mexico;Santa Fe County, New Mexico
+New Mexico;Valencia County, New Mexico
+New York;Albany County, New York
+New York;Bronx County, New York
+New York;Broome County, New York
+New York;Cattaraugus County, New York
+New York;Cayuga County, New York
+New York;Chautauqua County, New York
+New York;Chemung County, New York
+New York;Clinton County, New York
+New York;Dutchess County, New York
+New York;Erie County, New York
+New York;Jefferson County, New York
+New York;Kings County, New York
+New York;Madison County, New York
+New York;Monroe County, New York
+New York;Nassau County, New York
+New York;New York County, New York
+New York;Niagara County, New York
+New York;Oneida County, New York
+New York;Onondaga County, New York
+New York;Ontario County, New York
+New York;Orange County, New York
+New York;Oswego County, New York
+New York;Putnam County, New York
+New York;Queens County, New York
+New York;Rensselaer County, New York
+New York;Richmond County, New York
+New York;Rockland County, New York
+New York;St. Lawrence County, New York
+New York;Saratoga County, New York
+New York;Schenectady County, New York
+New York;Steuben County, New York
+New York;Suffolk County, New York
+New York;Sullivan County, New York
+New York;Tompkins County, New York
+New York;Ulster County, New York
+New York;Warren County, New York
+New York;Wayne County, New York
+New York;Westchester County, New York
+North Carolina;Alamance County, North Carolina
+North Carolina;Brunswick County, North Carolina
+North Carolina;Buncombe County, North Carolina
+North Carolina;Burke County, North Carolina
+North Carolina;Cabarrus County, North Carolina
+North Carolina;Caldwell County, North Carolina
+North Carolina;Catawba County, North Carolina
+North Carolina;Cleveland County, North Carolina
+North Carolina;Craven County, North Carolina
+North Carolina;Cumberland County, North Carolina
+North Carolina;Davidson County, North Carolina
+North Carolina;Durham County, North Carolina
+North Carolina;Forsyth County, North Carolina
+North Carolina;Gaston County, North Carolina
+North Carolina;Guilford County, North Carolina
+North Carolina;Harnett County, North Carolina
+North Carolina;Henderson County, North Carolina
+North Carolina;Iredell County, North Carolina
+North Carolina;Johnston County, North Carolina
+North Carolina;Lincoln County, North Carolina
+North Carolina;Mecklenburg County, North Carolina
+North Carolina;Moore County, North Carolina
+North Carolina;Nash County, North Carolina
+North Carolina;New Hanover County, North Carolina
+North Carolina;Onslow County, North Carolina
+North Carolina;Orange County, North Carolina
+North Carolina;Pitt County, North Carolina
+North Carolina;Randolph County, North Carolina
+North Carolina;Robeson County, North Carolina
+North Carolina;Rockingham County, North Carolina
+North Carolina;Rowan County, North Carolina
+North Carolina;Surry County, North Carolina
+North Carolina;Union County, North Carolina
+North Carolina;Wake County, North Carolina
+North Carolina;Wayne County, North Carolina
+North Carolina;Wilkes County, North Carolina
+North Carolina;Wilson County, North Carolina
+North Dakota;Burleigh County, North Dakota
+North Dakota;Cass County, North Dakota
+North Dakota;Grand Forks County, North Dakota
+Ohio;Allen County, Ohio
+Ohio;Ashtabula County, Ohio
+Ohio;Belmont County, Ohio
+Ohio;Butler County, Ohio
+Ohio;Clark County, Ohio
+Ohio;Clermont County, Ohio
+Ohio;Columbiana County, Ohio
+Ohio;Cuyahoga County, Ohio
+Ohio;Delaware County, Ohio
+Ohio;Erie County, Ohio
+Ohio;Fairfield County, Ohio
+Ohio;Franklin County, Ohio
+Ohio;Geauga County, Ohio
+Ohio;Greene County, Ohio
+Ohio;Hamilton County, Ohio
+Ohio;Hancock County, Ohio
+Ohio;Jefferson County, Ohio
+Ohio;Lake County, Ohio
+Ohio;Licking County, Ohio
+Ohio;Lorain County, Ohio
+Ohio;Lucas County, Ohio
+Ohio;Mahoning County, Ohio
+Ohio;Marion County, Ohio
+Ohio;Medina County, Ohio
+Ohio;Miami County, Ohio
+Ohio;Montgomery County, Ohio
+Ohio;Muskingum County, Ohio
+Ohio;Portage County, Ohio
+Ohio;Richland County, Ohio
+Ohio;Ross County, Ohio
+Ohio;Scioto County, Ohio
+Ohio;Stark County, Ohio
+Ohio;Summit County, Ohio
+Ohio;Trumbull County, Ohio
+Ohio;Tuscarawas County, Ohio
+Ohio;Warren County, Ohio
+Ohio;Wayne County, Ohio
+Ohio;Wood County, Ohio
+Oklahoma;Canadian County, Oklahoma
+Oklahoma;Cleveland County, Oklahoma
+Oklahoma;Comanche County, Oklahoma
+Oklahoma;Creek County, Oklahoma
+Oklahoma;Muskogee County, Oklahoma
+Oklahoma;Oklahoma County, Oklahoma
+Oklahoma;Payne County, Oklahoma
+Oklahoma;Pottawatomie County, Oklahoma
+Oklahoma;Rogers County, Oklahoma
+Oklahoma;Tulsa County, Oklahoma
+Oregon;Benton County, Oregon
+Oregon;Clackamas County, Oregon
+Oregon;Deschutes County, Oregon
+Oregon;Douglas County, Oregon
+Oregon;Jackson County, Oregon
+Oregon;Josephine County, Oregon
+Oregon;Klamath County, Oregon
+Oregon;Lane County, Oregon
+Oregon;Linn County, Oregon
+Oregon;Marion County, Oregon
+Oregon;Multnomah County, Oregon
+Oregon;Polk County, Oregon
+Oregon;Umatilla County, Oregon
+Oregon;Washington County, Oregon
+Oregon;Yamhill County, Oregon
+Pennsylvania;Adams County, Pennsylvania
+Pennsylvania;Allegheny County, Pennsylvania
+Pennsylvania;Armstrong County, Pennsylvania
+Pennsylvania;Beaver County, Pennsylvania
+Pennsylvania;Berks County, Pennsylvania
+Pennsylvania;Blair County, Pennsylvania
+Pennsylvania;Bucks County, Pennsylvania
+Pennsylvania;Butler County, Pennsylvania
+Pennsylvania;Cambria County, Pennsylvania
+Pennsylvania;Centre County, Pennsylvania
+Pennsylvania;Chester County, Pennsylvania
+Pennsylvania;Clearfield County, Pennsylvania
+Pennsylvania;Crawford County, Pennsylvania
+Pennsylvania;Cumberland County, Pennsylvania
+Pennsylvania;Dauphin County, Pennsylvania
+Pennsylvania;Delaware County, Pennsylvania
+Pennsylvania;Erie County, Pennsylvania
+Pennsylvania;Fayette County, Pennsylvania
+Pennsylvania;Franklin County, Pennsylvania
+Pennsylvania;Indiana County, Pennsylvania
+Pennsylvania;Lackawanna County, Pennsylvania
+Pennsylvania;Lancaster County, Pennsylvania
+Pennsylvania;Lawrence County, Pennsylvania
+Pennsylvania;Lebanon County, Pennsylvania
+Pennsylvania;Lehigh County, Pennsylvania
+Pennsylvania;Luzerne County, Pennsylvania
+Pennsylvania;Lycoming County, Pennsylvania
+Pennsylvania;Mercer County, Pennsylvania
+Pennsylvania;Monroe County, Pennsylvania
+Pennsylvania;Montgomery County, Pennsylvania
+Pennsylvania;Northampton County, Pennsylvania
+Pennsylvania;Northumberland County, Pennsylvania
+Pennsylvania;Philadelphia County, Pennsylvania
+Pennsylvania;Schuylkill County, Pennsylvania
+Pennsylvania;Somerset County, Pennsylvania
+Pennsylvania;Washington County, Pennsylvania
+Pennsylvania;Westmoreland County, Pennsylvania
+Pennsylvania;York County, Pennsylvania
+Rhode Island;Kent County, Rhode Island
+Rhode Island;Newport County, Rhode Island
+Rhode Island;Providence County, Rhode Island
+Rhode Island;Washington County, Rhode Island
+South Carolina;Aiken County, South Carolina
+South Carolina;Anderson County, South Carolina
+South Carolina;Beaufort County, South Carolina
+South Carolina;Berkeley County, South Carolina
+South Carolina;Charleston County, South Carolina
+South Carolina;Darlington County, South Carolina
+South Carolina;Dorchester County, South Carolina
+South Carolina;Florence County, South Carolina
+South Carolina;Greenville County, South Carolina
+South Carolina;Greenwood County, South Carolina
+South Carolina;Horry County, South Carolina
+South Carolina;Laurens County, South Carolina
+South Carolina;Lexington County, South Carolina
+South Carolina;Oconee County, South Carolina
+South Carolina;Orangeburg County, South Carolina
+South Carolina;Pickens County, South Carolina
+South Carolina;Richland County, South Carolina
+South Carolina;Spartanburg County, South Carolina
+South Carolina;Sumter County, South Carolina
+South Carolina;York County, South Carolina
+South Dakota;Minnehaha County, South Dakota
+South Dakota;Pennington County, South Dakota
+Tennessee;Anderson County, Tennessee
+Tennessee;Blount County, Tennessee
+Tennessee;Bradley County, Tennessee
+Tennessee;Davidson County, Tennessee
+Tennessee;Greene County, Tennessee
+Tennessee;Hamilton County, Tennessee
+Tennessee;Knox County, Tennessee
+Tennessee;Madison County, Tennessee
+Tennessee;Maury County, Tennessee
+Tennessee;Montgomery County, Tennessee
+Tennessee;Putnam County, Tennessee
+Tennessee;Rutherford County, Tennessee
+Tennessee;Sevier County, Tennessee
+Tennessee;Shelby County, Tennessee
+Tennessee;Sullivan County, Tennessee
+Tennessee;Sumner County, Tennessee
+Tennessee;Washington County, Tennessee
+Tennessee;Williamson County, Tennessee
+Tennessee;Wilson County, Tennessee
+Texas;Angelina County, Texas
+Texas;Bastrop County, Texas
+Texas;Bell County, Texas
+Texas;Bexar County, Texas
+Texas;Bowie County, Texas
+Texas;Brazoria County, Texas
+Texas;Brazos County, Texas
+Texas;Cameron County, Texas
+Texas;Collin County, Texas
+Texas;Comal County, Texas
+Texas;Coryell County, Texas
+Texas;Dallas County, Texas
+Texas;Denton County, Texas
+Texas;Ector County, Texas
+Texas;Ellis County, Texas
+Texas;El Paso County, Texas
+Texas;Fort Bend County, Texas
+Texas;Galveston County, Texas
+Texas;Grayson County, Texas
+Texas;Gregg County, Texas
+Texas;Guadalupe County, Texas
+Texas;Harris County, Texas
+Texas;Hays County, Texas
+Texas;Henderson County, Texas
+Texas;Hidalgo County, Texas
+Texas;Hunt County, Texas
+Texas;Jefferson County, Texas
+Texas;Johnson County, Texas
+Texas;Kaufman County, Texas
+Texas;Liberty County, Texas
+Texas;Lubbock County, Texas
+Texas;McLennan County, Texas
+Texas;Midland County, Texas
+Texas;Montgomery County, Texas
+Texas;Nueces County, Texas
+Texas;Orange County, Texas
+Texas;Parker County, Texas
+Texas;Potter County, Texas
+Texas;Randall County, Texas
+Texas;San Patricio County, Texas
+Texas;Smith County, Texas
+Texas;Tarrant County, Texas
+Texas;Taylor County, Texas
+Texas;Tom Green County, Texas
+Texas;Travis County, Texas
+Texas;Victoria County, Texas
+Texas;Webb County, Texas
+Texas;Wichita County, Texas
+Texas;Williamson County, Texas
+Utah;Cache County, Utah
+Utah;Davis County, Utah
+Utah;Salt Lake County, Utah
+Utah;Utah County, Utah
+Utah;Washington County, Utah
+Utah;Weber County, Utah
+Vermont;Chittenden County, Vermont
+Virginia;Albemarle County, Virginia
+Virginia;Arlington County, Virginia
+Virginia;Augusta County, Virginia
+Virginia;Bedford County, Virginia
+Virginia;Chesterfield County, Virginia
+Virginia;Fairfax County, Virginia
+Virginia;Frederick County, Virginia
+Virginia;Hanover County, Virginia
+Virginia;Henrico County, Virginia
+Virginia;Loudoun County, Virginia
+Virginia;Montgomery County, Virginia
+Virginia;Prince William County, Virginia
+Virginia;Roanoke County, Virginia
+Virginia;Rockingham County, Virginia
+Virginia;Spotsylvania County, Virginia
+Virginia;Stafford County, Virginia
+Virginia;Alexandria city, Virginia
+Virginia;Chesapeake city, Virginia
+Virginia;Hampton city, Virginia
+Virginia;Lynchburg city, Virginia
+Virginia;Newport News city, Virginia
+Virginia;Norfolk city, Virginia
+Virginia;Portsmouth city, Virginia
+Virginia;Richmond city, Virginia
+Virginia;Roanoke city, Virginia
+Virginia;Suffolk city, Virginia
+Virginia;Virginia Beach city, Virginia
+Washington;Benton County, Washington
+Washington;Chelan County, Washington
+Washington;Clallam County, Washington
+Washington;Clark County, Washington
+Washington;Cowlitz County, Washington
+Washington;Grant County, Washington
+Washington;Grays Harbor County, Washington
+Washington;Island County, Washington
+Washington;King County, Washington
+Washington;Kitsap County, Washington
+Washington;Lewis County, Washington
+Washington;Pierce County, Washington
+Washington;Skagit County, Washington
+Washington;Snohomish County, Washington
+Washington;Spokane County, Washington
+Washington;Thurston County, Washington
+Washington;Whatcom County, Washington
+Washington;Yakima County, Washington
+West Virginia;Berkeley County, West Virginia
+West Virginia;Cabell County, West Virginia
+West Virginia;Harrison County, West Virginia
+West Virginia;Kanawha County, West Virginia
+West Virginia;Monongalia County, West Virginia
+West Virginia;Raleigh County, West Virginia
+West Virginia;Wood County, West Virginia
+Wisconsin;Brown County, Wisconsin
+Wisconsin;Dane County, Wisconsin
+Wisconsin;Dodge County, Wisconsin
+Wisconsin;Eau Claire County, Wisconsin
+Wisconsin;Fond du Lac County, Wisconsin
+Wisconsin;Jefferson County, Wisconsin
+Wisconsin;Kenosha County, Wisconsin
+Wisconsin;La Crosse County, Wisconsin
+Wisconsin;Manitowoc County, Wisconsin
+Wisconsin;Marathon County, Wisconsin
+Wisconsin;Milwaukee County, Wisconsin
+Wisconsin;Outagamie County, Wisconsin
+Wisconsin;Ozaukee County, Wisconsin
+Wisconsin;Portage County, Wisconsin
+Wisconsin;Racine County, Wisconsin
+Wisconsin;Rock County, Wisconsin
+Wisconsin;St. Croix County, Wisconsin
+Wisconsin;Sheboygan County, Wisconsin
+Wisconsin;Walworth County, Wisconsin
+Wisconsin;Washington County, Wisconsin
+Wisconsin;Waukesha County, Wisconsin
+Wisconsin;Winnebago County, Wisconsin
+Wisconsin;Wood County, Wisconsin
+Wyoming;Laramie County, Wyoming
+Wyoming;Natrona County, Wyoming

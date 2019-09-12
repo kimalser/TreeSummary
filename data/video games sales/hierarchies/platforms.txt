@@ -1,0 +1,39 @@
+All platforms;PC
+All platforms;All consoles
+All consoles;2nd gen
+All consoles;3rd gen
+All consoles;4th gen
+All consoles;5th gen
+All consoles;6th gen
+All consoles;7th gen
+All consoles;8th gen
+2nd gen;2600
+3rd gen;NES
+4th gen;TG16
+4th gen;GEN
+4th gen;NG
+4th gen;SNES
+4th gen;SCD
+4th gen;GB
+4th gen;GG
+5th gen;3DO
+5th gen;SAT
+5th gen;PS
+5th gen;PCFX
+5th gen;N64
+6th gen;DC
+6th gen;PS2
+6th gen;GC
+6th gen;XB
+6th gen;GBA
+6th gen;WS
+7th gen;X360
+7th gen;PS3
+7th gen;Wii
+7th gen;PSP
+7th gen;DS
+8th gen;PS4
+8th gen;WiiU
+8th gen;XOne
+8th gen;PSV
+8th gen;3DS

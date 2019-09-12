@@ -1,0 +1,12 @@
+United States;Northeast
+Northeast;New England
+Northeast;Mid-Atlantic
+New England;Connecticut
+New England;Maine
+New England;Massachusetts
+New England;New Hampshire
+New England;Rhode Island
+New England;Vermont
+Mid-Atlantic;New Jersey
+Mid-Atlantic;New York
+Mid-Atlantic;Pennsylvania

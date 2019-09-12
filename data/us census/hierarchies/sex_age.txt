@@ -1,0 +1,16 @@
+All Population;Male
+Male;Male,18 to 34 group
+Male,18 to 34 group;Male,18 to 24 years
+Male,18 to 34 group;Male,25 to 34 years
+Male;Male,35 to 64 group
+Male,35 to 64 group;Male,35 to 44 years
+Male,35 to 64 group;Male,45 to 64 years
+Male;Male,65 years and over
+All Population;Female
+Female;Female,18 to 34 group
+Female,18 to 34 group;Female,18 to 24 years
+Female,18 to 34 group;Female,25 to 34 years
+Female;Female,35 to 64 group
+Female,35 to 64 group;Female,35 to 44 years
+Female,35 to 64 group;Female,45 to 64 years
+Female;Female,65 years and over
